@@ -1,0 +1,9 @@
+{
+  "name": "A Little World For My Wifey",
+  "short_name": "Our Little World",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#fbf1f5",
+  "theme_color": "#f8e8f0",
+  "icons": []
+}
